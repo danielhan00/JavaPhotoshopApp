@@ -1,0 +1,13 @@
+create layer 1
+create layer 2
+current 1
+load Koala.ppm
+greyscale
+save koalaGrey.jpg
+current 2
+load Koala.png
+sharpen
+save koalaSharp.png
+invisible 2
+done
+

@@ -1,0 +1,11 @@
+create layer 1
+create layer 2
+current 1
+draw checkerboard 50 25
+sepia
+save sepiaChecker.ppm
+current 2
+draw checkerboard 50 25
+blur
+save blurChecker.jpg
+done
