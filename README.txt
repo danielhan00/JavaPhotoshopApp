@@ -1,4 +1,4 @@
-﻿Assignment 5 README - Daniel Han, Matt Kugler  
+﻿READMEr  
 The Model:
     1. Directory image - the directory for classes/interfaces representing an Image. 
         1. Directory ppm - subdirectory leading to how to read data from a ppm file. 
@@ -25,7 +25,7 @@ Image Sources:
     1. Red/Blue checkerboard image (checkerboard.ppm) - I, Matt Kugler, own this image and am authorizing its use in the project.  
     2. Baby Koala (koalaCUTE.ppm) - Animal Hearted Apparel. (2015, August 8). Meet Archer: The Tiniest Koala [Photograph]. AnimalHearted.Com. https://www.animalhearted.com/blogs/animal-blog/55472387-meet-archer-the-tiniest-koala   
 
-Assignment 6 README - Daniel Han, Matt Kugler
+README - Daniel Han, Matt Kugler
 
 Updates: 
     1. Full support for conventional file formats (PPM, JPG, PNG). Includes import/modification/export features. 
