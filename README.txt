@@ -1,4 +1,4 @@
-﻿READMEr  
+﻿README 
 The Model:
     1. Directory image - the directory for classes/interfaces representing an Image. 
         1. Directory ppm - subdirectory leading to how to read data from a ppm file. 
