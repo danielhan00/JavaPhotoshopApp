@@ -1,7 +1,7 @@
 How to run this application!
 
-1. In the res directory, find and download the jar file. 
-
+1. In the res directory, find and download the jar file. (imageHanKugler.jar)
+2. Now open a command-prompt/terminal and navigate to the folder where you downloaded imageHanKugler.jar. Now type java -jar imageHanKugler.jar and press ENTER.
 
 
 
